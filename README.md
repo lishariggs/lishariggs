@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="./Alisha%20Riggins.gif" alt="Alisha Riggins - Public Health Researcher & Data Analyst" />
+</p>
 
-<!--
-**lishariggs/lishariggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! I'm Alisha, a data analyst with a strong background in **public health research**, **predictive modeling**, and **quantitative methods**. I specialize in transforming complex health datasets into meaningful, actionable insights to support data-driven decision-making in healthcare and population health.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Technical Skills
+
+### Analytical Software
+- **R** (including `R Markdown` for reproducible reporting)
+- **NVivo 12** (qualitative data coding)
+- **Qualtrics** (survey creation)
+
+### 📈 Analytic Methods
+- **Predictive Modeling**:
+  - Linear & Multiple Linear Regression  
+  - Logistic Regression (Binary, Ordinal, Multinomial)  
+  - Forecasting and Trend Analysis  
+  - Interrupted Time Series (ITS)  
+- **Classical Statistical Methods**:
+  - t-tests, ANOVA, Chi-Square Tests
+
+---
+
+## Public Health Focus Areas
+
+My work is driven by a passion for improving health outcomes through data. I focus on:
+
+- 🏥 **Healthcare Utilization & Outcomes**:  
+  Analyzing how demographic and behavioral factors influence healthcare access, treatment outcomes, and disparities.
+
+- 📊 **Predictive Analytics in Public Health**:  
+  Building and validating models that predict risk, behavior, and outcomes using large-scale health datasets.
+
+- 📅 **Time Series & Policy Evaluation**:  
+  Using ITS models to assess the effects of policy changes or public health interventions over time.
+
+- 📋 **Survey Data Analysis**:  
+  Working with complex, nationally representative datasets to identify trends in youth behavior, maternal and child health, chronic disease, and more.
+
+---
+
+## Datasets I Frequently Use
+
+- **CDC WONDER**  
+- **U.S. Census Data**  
+- **BRFSS** (Behavioral Risk Factor Surveillance System)  
+- **YRBS** (Youth Risk Behavior Survey)  
+- **NSCH** (National Survey of Children’s Health)  
+- **CDC Natality/Birth Certificate Data**
+
+## Let's Connect!
+
+I'm always open to collaborating on projects that use data to improve public health.  
+Feel free to explore my repositories to see examples of:
+- Predictive modeling in maternal and child health  
+- Behavioral health analysis using national surveys  
+- Policy impact evaluation using time series models
+
+---
