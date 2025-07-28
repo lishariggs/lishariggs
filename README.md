@@ -2,7 +2,7 @@
   <img src="./Alisha%20Riggins.gif" alt="Alisha Riggins - Public Health Researcher & Data Analyst" />
 </p>
 
-## Hi there! I'm Alisha, a data analyst with a strong background in **public health research**, **predictive modeling**, and **quantitative methods**. I specialize in transforming complex health datasets into meaningful, actionable insights to support data-driven decision-making in healthcare and population health.
+## Hi there! I'm Alisha, a peer-reviewed published researcher and data analyst with a strong background in public health research, predictive modeling, and quantitative methods. I specialize in transforming complex health datasets into meaningful, actionable insights to support data-driven decision-making in healthcare and population health.
 
 ---
 
