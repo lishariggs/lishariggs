@@ -1,5 +1,8 @@
 
+<img width="2000" height="600" alt="Alisha Riggins" src="https://github.com/user-attachments/assets/22a51d19-7b3c-46f2-90e1-8666442efaa9" />
+
 ## Welcome!
+
 Hi there! I'm Alisha, a peer-reviewed published researcher and data analyst with a strong background in public health research, predictive modeling, and quantitative methods. I specialize in transforming complex health
   datasets into meaningful, actionable insights to support data-driven decision-making in healthcare and population health.
 
