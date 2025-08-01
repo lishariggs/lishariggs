@@ -12,6 +12,8 @@ Hi there! I'm Alisha, a peer-reviewed published researcher and data analyst with
 
 ### Analytical Software
 - **R** (including `R Markdown` for reproducible reporting)
+- **SAS**
+- **SQL**
 - **NVivo 12** (qualitative data coding)
 - **Qualtrics** (survey creation)
 
